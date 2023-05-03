@@ -35,3 +35,11 @@ body {
     background-color: #666;
   }
   
+  #moon {
+    position: absolute; 
+    bottom: 0;
+    right: 0;
+    padding-right: 5px;
+    color: #333;
+
+  }
