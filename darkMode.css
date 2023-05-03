@@ -1,0 +1,23 @@
+body {
+  background-color: #1b1b1b;
+  color: #e6e6e6;
+}
+
+a {
+  color: #b3b3b3;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #e6e6e6;
+}
+
+#logo {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
